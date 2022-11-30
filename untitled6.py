@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1zIlt646QeCLwZIHWp88Fi6-C-nbaEX-r
 """
 
-!pip install roboflow
 
 from roboflow import Roboflow
 rf = Roboflow(api_key="5TcRlkOaNxVB0VVKZPDJ")
